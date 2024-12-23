@@ -1,0 +1,47 @@
+[
+    {
+      "id": 0,
+      "name": "Capi Beads",
+      "description": "Company founded on December 24, 2020 by two colleagues and myself. Iboh Company is a Marketing agency located in the United Kingdom, specializing in web development and design. We have had some major clients like Soraya Arnelas, with her youth clothing brand, and LUCY Aranjuez, a jewelry store with thousands of products and features that I recommend seeing. I am very happy with my work and performance in the company as a director and as a worker; I have learned how to treat each type of client, how the market works, how to solve problems quickly and of any kind, and even how to make invoices and the current regulated policies.",
+      "logo": "img/Caguama.png",
+      "backgroundImage": "img/pasto.jpg",
+      "technologies": ["WordPress", "HTML5", "CSS3", "Photoshop", "JavaScript","Figma"],
+      "github": "https://www.figma.com/proto/O0x7ELUCF3iLAFPDKvQ5X4/Untitled?node-id=780-603&t=jjIzxyN8Cjj8NgHb-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=807%3A953&show-proto-sidebar=1"
+    },
+    {
+      "id": 1,
+      "name": "Capi Beads",
+      "description": "Capibeas,es un pequeño emprendimiento de hama beads donde puedes pedir la figura que quieras para asi nosotros traerla a la vida, en figuras puedes ver algunos ejemplos de esta misma,en esta pagina solo podras encargar figuras ya echas",
+      "logo": "img/Banner.png",
+      "backgroundImage": "img/pasto.jpg",
+      "technologies": ["WordPress","Elementor","HTML5", "CSS3", "JavaScript"],
+      "github": "https://www.figma.com/proto/PM0VDI1piqCJr5G4C0TlQ8/Untitled?node-id=1-298&t=E2Hn0fUziRbx65l9-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A278"
+    },
+    {
+      "id": 2,
+      "name": "Capi Beads",
+      "description": "Capibeas,es un pequeño emprendimiento de hama beads donde puedes pedir la figura que quieras para asi nosotros traerla a la vida, en figuras puedes ver algunos ejemplos de esta misma,en esta pagina solo podras encargar figuras ya echas",
+      "logo": "img/capibanner.jpg",
+      "backgroundImage": "img/pasto.jpg",
+      "technologies": ["WordPress","Elementor","HTML5", "CSS3", "JavaScript"],
+      "github": "https://www.figma.com/proto/O0x7ELUCF3iLAFPDKvQ5X4/Untitled?node-id=54-2&t=jjIzxyN8Cjj8NgHb-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=54%3A24&show-proto-sidebar=1"
+    },
+    {
+      "id": 3,
+      "name": "Capi Beads",
+      "description": "Capibeas,es un pequeño emprendimiento de hama beads donde puedes pedir la figura que quieras para asi nosotros traerla a la vida, en figuras puedes ver algunos ejemplos de esta misma,en esta pagina solo podras encargar figuras ya echas",
+      "logo": "img/Edu.png",
+      "backgroundImage": "img/pasto.jpg",
+      "technologies": ["WordPress","Elementor","HTML5", "CSS3", "JavaScript"],
+      "github": "https://www.figma.com/proto/Cl2sgwCHN3pQc7hoA0wbWy/app-moviles?node-id=1-3&p=f&t=4pkYDvZqkq11Uu0X-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3"
+    },
+    {
+      "id": 4,
+      "name": "Capi Beads",
+      "description": "Capibeas,es un pequeño emprendimiento de hama beads donde puedes pedir la figura que quieras para asi nosotros traerla a la vida, en figuras puedes ver algunos ejemplos de esta misma,en esta pagina solo podras encargar figuras ya echas",
+      "logo": "img/PP.png",
+      "backgroundImage": "img/pasto.jpg",
+      "technologies": ["WordPress","Elementor","HTML5", "CSS3", "JavaScript"],
+      "github": "https://www.figma.com/proto/sbBEFdzhqK5ZsuFvyEHd3U/Untitled?node-id=3-2&starting-point-node-id=3%3A2&show-proto-sidebar=1&t=gBuk3qk2gYCZ4URq-1"
+    }
+  ]
