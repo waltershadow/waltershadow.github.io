@@ -10,8 +10,8 @@
     },
     {
       "id": 1,
-      "name": "Capi Beads",
-      "description": "Capibeas,es un pequeño emprendimiento de hama beads donde puedes pedir la figura que quieras para asi nosotros traerla a la vida, en figuras puedes ver algunos ejemplos de esta misma,en esta pagina solo podras encargar figuras ya echas",
+      "name": "PP store",
+      "description": "PP store, es un prototipo de diferentes tiendas en un solo entorno web",
       "logo": "img/Banner.png",
       "backgroundImage": "img/pasto.jpg",
       "technologies": ["Figma"],
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "name": "Capi Beads",
-      "description": "Capibeas,es un pequeño emprendimiento de hama beads donde puedes pedir la figura que quieras para asi nosotros traerla a la vida, en figuras puedes ver algunos ejemplos de esta misma,en esta pagina solo podras encargar figuras ya echas",
+      "description": "Capibeas, una tienda de manualidades de santa ana, aqui puedes obervar su prototipo",
       "logo": "img/capibanner.jpg",
       "backgroundImage": "img/pasto.jpg",
       "technologies": ["Figma"],
@@ -28,8 +28,8 @@
     },
     {
       "id": 3,
-      "name": "Capi Beads",
-      "description": "Capibeas,es un pequeño emprendimiento de hama beads donde puedes pedir la figura que quieras para asi nosotros traerla a la vida, en figuras puedes ver algunos ejemplos de esta misma,en esta pagina solo podras encargar figuras ya echas",
+      "name": "Edupeques",
+      "description": "Edupeques es una pequeña aplicacion para el aprendizaje de niños pequeños, aqui puedes observar su prototipo",
       "logo": "img/Edu.png",
       "backgroundImage": "img/pasto.jpg",
       "technologies": ["Figma"],
@@ -37,8 +37,8 @@
     },
     {
       "id": 4,
-      "name": "Capi Beads",
-      "description": "Capibeas,es un pequeño emprendimiento de hama beads donde puedes pedir la figura que quieras para asi nosotros traerla a la vida, en figuras puedes ver algunos ejemplos de esta misma,en esta pagina solo podras encargar figuras ya echas",
+      "name": "PP Restaurant",
+      "description": "PP restaurant es una plicacion de pedidos enlinea de comida o diferentes objetos, aqui puedes observar su prototipo",
       "logo": "img/PP.png",
       "backgroundImage": "img/pasto.jpg",
       "technologies": ["Figma"],
