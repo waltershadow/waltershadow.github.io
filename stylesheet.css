@@ -355,9 +355,9 @@ body {
     --white: #FFF;
     --dark: #1B2735;
     --black: #090A0F;
-    --orange: #7a0585;
-    --otherorange: #24ac12;
-    --orangep: #0c410a;
+    --orange: #366334;
+    --otherorange: #24ac12; /*color botones cv y mas*/
+    --orangep: #366334;
     --darkorange: #7a0585;
     --darkblue: #333A73;
     --green: #adff2f;
@@ -370,7 +370,7 @@ body {
     --textgray: #cccccc;
     --darkgray: #555;
     --scroll:#090A0F;
-    --gradient-1:linear-gradient(to top, rgb(4, 63, 4), cyan);
+    --gradient-1:linear-gradient(to top, rgb(255, 255, 255), cyan);
     --gradient-2:linear-gradient(to top, lime, 20%, cyan);
     --gradient-3:linear-gradient(135deg, orange 60%, cyan);
     --gradient-4: linear-gradient(#e66465, #9198e5);
