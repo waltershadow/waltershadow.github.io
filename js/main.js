@@ -3,7 +3,7 @@ document.getElementById("downloadCVButton").addEventListener("click", function(e
     event.preventDefault();
 
     // Abre el PDF en una nueva pestaña
-    window.open("docs/CV ", "_blank");
+    window.open("docs/CV walter.pdf", "_blank");
 });
 
 fetch('./js/projects.json')
